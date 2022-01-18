@@ -39,3 +39,5 @@ require (
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 )
+
+replace github.com/gogo/protobuf => github.com/gogo/protobuf v1.3.2
